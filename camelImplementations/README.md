@@ -5,10 +5,6 @@ This project extends and demonstrates how to implement CAMEL (Conversational Age
 ## 🌟 Overview
 This implementation shows how to create a simple chat agent using the CAMEL framework, configured to work with local LLM models via Ollama/OpenAI/Claude/etc.
 
-## 🌟 To run 'running_camel_with_local_model.py' agent workflow
-Follow the installation
-
-
 ## 🛠️ Prerequisites & Installation 📦 
 - Python 3.x
 - CAMEL library (`pip install camel-ai`)
@@ -46,7 +42,8 @@ Current configuration includes:
 
 
 ## 🤝 Contributing
-Feel free to fork, modify, and experiment with the code. Contributions are welcome!
+Feel free to fork, modify, and experiment with the code. Contributions are welcome.
+Feel free to reach out to me. 
 
 ## 📄 License
 This project is open-source and available under the MIT License.
